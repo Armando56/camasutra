@@ -1,1 +1,10 @@
-let a = 10;
+window.alert('number 1');
+window.alert('number 2');
+window.alert('number 3');
+window.alert('number 4');
+window.alert('number 5');
+window.alert('number 6');
+window.alert('number 7');
+window.alert('number 8');
+window.alert('number 9');
+window.alert('number 10');
